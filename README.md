@@ -1,4 +1,14 @@
-# How to publish a library on npm
+# _leaflet-maps_
+
+![github](https://img.shields.io/github/stars/institutohidrografico/leaflet-maps "Github")
+
+![Node.js](https://img.shields.io/badge/Node.js-22.17-339933?logo=node.js)
+![npm](https://img.shields.io/badge/npm-10.9.2-CB3837?logo=npm)
+![Vite](https://img.shields.io/badge/Vite-5.2.0-646CFF?logo=vite)
+![React](https://img.shields.io/badge/React-19.1-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
+
+## How to publish a library on npm
 After creating an account on npmjs.com
 
 ```
@@ -9,7 +19,7 @@ npm adduser
 npm publish --access public
 ```
 
-# npm configurations
+## npm configurations
 ```
 package name: (@institutohidrografico/leaflet-maps)
 version: (1.0.1)
