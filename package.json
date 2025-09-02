@@ -1,0 +1,42 @@
+{
+  "name": "@institutohidrografico/leaflet-maps",
+  "version": "1.0.1",
+  "description": "A versatile platform designed for the consolidation of georeferenced data, enabling its use in spatial analysis, monitoring, decision-making, and real-time interdisciplinary applications.",
+  "keywords": [
+    "leaflet",
+    "maps",
+    "nautical",
+    "hydrography",
+    "navigation",
+    "maritime",
+    "oceanography",
+    "charts",
+    "nautical-charts",
+    "lighthouses",
+    "tide-stations",
+    "eta-calculation",
+    "ship-tracking",
+    "marine-data",
+    "geospatial",
+    "gis",
+    "hydrographic-survey",
+    "maritime-safety",
+    "scientific",
+    "marine-navigation"
+  ],
+  "homepage": "https://github.com/InstitutoHidrografico/leaflet-maps#readme",
+  "bugs": {
+    "url": "https://github.com/InstitutoHidrografico/leaflet-maps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InstitutoHidrografico/leaflet-maps.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Marcelo Gadelha (Instituto Hidrográfico)",
+  "type": "commonjs",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
