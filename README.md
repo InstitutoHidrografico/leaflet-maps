@@ -19,6 +19,13 @@ npm adduser
 npm publish --access public
 ```
 
+## how publish on git packages
+After add .npmrc file on project
+
+```
+npm publish --registry=https://npm.pkg.github.com
+```
+
 ## npm configurations
 ```
 package name: (@institutohidrografico/leaflet-maps)
