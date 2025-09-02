@@ -1,6 +1,6 @@
 {
   "name": "@institutohidrografico/leaflet-maps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A versatile platform designed for the consolidation of georeferenced data, enabling its use in spatial analysis, monitoring, decision-making, and real-time interdisciplinary applications.",
   "keywords": [
     "leaflet",
@@ -38,5 +38,8 @@
   "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
